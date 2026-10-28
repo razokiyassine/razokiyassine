@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Yassine Razoki — Cybersecurity and Network Infrastructure</title>
+<desc id="desc">Dark blue profile banner with cyan accents and a geometric network motif. Build. Detect. Defend.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#131c36"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#3ce6d0"/><stop offset="1" stop-color="#7e8cff"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26324a" stroke-width="0.6" opacity=".4"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="48" y="53" width="48" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <text x="48" y="94" font-size="14" font-weight="600" letter-spacing="3" fill="#54decf">BUILD. DETECT. DEFEND.</text>
+  <text x="45" y="160" font-size="57" font-weight="700" letter-spacing="-1.2" fill="#f1f5fb">Yassine Razoki</text>
+  <text x="48" y="199" font-size="22" fill="#b8c6df">Cybersecurity &amp; Network Infrastructure</text>
+  <text x="48" y="250" font-size="14" letter-spacing="1" fill="#8095b5">SOC OPERATIONS  /  DETECTION ENGINEERING  /  CLOUD</text>
+</g>
+<g fill="none" stroke="#36486c" stroke-width="1.5">
+  <path d="M842 80L954 45L1086 96L1118 211L1003 266L869 226Z"/>
+  <path d="M842 80L1003 266M954 45L869 226M1086 96L869 226M1118 211L842 80M954 45L1118 211"/>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".85">
+  <path d="M954 45L1086 96L1118 211L1003 266"/>
+  <path d="M842 80L869 226L1003 266"/>
+  <path d="M954 45L978 153L1118 211M978 153L869 226"/>
+</g>
+<g fill="#0f192d" stroke="#55dcca" stroke-width="2">
+  <circle cx="842" cy="80" r="6"/><circle cx="954" cy="45" r="6"/><circle cx="1086" cy="96" r="6"/>
+  <circle cx="1118" cy="211" r="6"/><circle cx="1003" cy="266" r="6"/><circle cx="869" cy="226" r="6"/>
+  <circle cx="978" cy="153" r="13" stroke="#929aff"/><circle cx="978" cy="153" r="4" fill="#929aff" stroke="none"/>
+</g>
+<rect x="0" y="294" width="1200" height="6" fill="url(#accent)" opacity=".85"/>
+</svg>
